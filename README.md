@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A passionate Data Analyst from Italy</h3>
+<h3 align="center">A gentle Data Analyst from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrea-bavetta&label=Profile%20views&color=0e75b6&style=flat" alt="andrea-bavetta" /> </p>
 
