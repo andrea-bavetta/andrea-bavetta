@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A passionate Data Analyst from Italy</h3>
-<h4 align="center">Here you will find projects I worked on as well as some ongoing ones. Hope you can find something useful and that gives you inspiration.
-Cheers!</h3>
+<h5 align="left">Here you will find projects I worked on as well as some ongoing ones. Hope you can find something useful and that gives you inspiration.
+Cheers!</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrea-bavetta&label=Profile%20views&color=0e75b6&style=flat" alt="andrea-bavetta" /> </p>
 
