@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrea-bavetta&label=Profile%20views&color=0e75b6&style=flat" alt="andrea-bavetta" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> data@andreabavetta.it
 <p align="left">
 </p>
 
